@@ -1,0 +1,23 @@
+{
+  "name": "blabla-ui",
+  "version": "1.0.0",
+  "description": "\"Backbone Directory\" is a simple Employee Directory application built with [Backbone.js](http://backbonejs.org) and [Twitter Bootstrap] (http://twitter.github.io/bootstrap/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebJak/directory-backbone-bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebJak/directory-backbone-bootstrap/issues"
+  },
+  "homepage": "https://github.com/SebJak/directory-backbone-bootstrap#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^2.3.1"
+  }
+}

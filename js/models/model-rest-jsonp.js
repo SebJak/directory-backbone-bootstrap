@@ -25,7 +25,7 @@ directory.EmployeeCollection = Backbone.Collection.extend({
 
     model: directory.Employee,
 
-    url:"http://localhost:3000/employees"
+    url:"http://localhost:8080/employees"
 //    url:"/directory-rest-php/employees"
 
 });
